@@ -4,21 +4,19 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 
 ---
 
-**Author :** Fesal Badday
+**Author :** Robin (Abishek Roka) Pradhan
 
-**Repo :** [Github Repo](https://github.com/FesalBadday/cpnt201-a4)
+**Repo :** [Github Repo](https://github.com/compsigh-url/cpnt201-a4)
 
-**Site :** [Github Pages](https://FesalBadday.github.io/cpnt201-a4)
+**Site :** [Github Pages](https://compsigh-url.github.io/cpnt201-a4)
 
 ---
 
 ## Team Members
 
-(Include name as a link to the person's github repo)
-
-- Maintainer: [Fesal](https://github.com/FesalBadday)
-- Collaborator: [Devon](https://github.com/Nephy1)
-- Contributor: Robin
+- Maintainer: [Robin](https://github.com/compsigh-url)
+- Collaborator: [Fesal](https://github.com/FesalBadday)
+- Contributor: [Devon](https://github.com/Nephy1)
 
 ## Rules
 
@@ -29,6 +27,7 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 ---
 
 ## Coding Attributions
+- [Fesal](https://github.com/FesalBadday)
 - [Devon](https://github.com/Nephy1)
 
 
